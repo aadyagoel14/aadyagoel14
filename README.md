@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I'm currently working on AI systems for multi-omic analysis & personalized medicine<br>👯 I'm looking to collaborate on AI for healthcare, genomics & biomedical imaging projects<br>🤝 I'm looking for help with scaling single-cell & multi-omic integration pipelines<br>🌱 I'm currently learning advanced bioinformatics pipelines & cloud-based genomic workflows<br>💬 Ask me about building ML models for clinical data & published research tips<br>⚡ Fun fact: I got a CCIR Spotlight Scholar nomination & was invited to a YouTube research podcast 🎙️
